@@ -1,0 +1,69 @@
+📊 Análise de Turnover – Projeto Final Data Girls
+Este projeto analisa os dados de recursos humanos para identificar padrões e fatores que influenciam a rotatividade de funcionários, além de propor ações estratégicas para redução do turnover.
+
+📂 Estrutura do Projeto
+Projeto_completo.ipynb → Notebook com todo o código de tratamento, análise e visualização de dados.
+
+RH_Dataset_Tratado.xlsx → Base tratada após limpeza e criação de novas variáveis.
+
+Projeto Final Data Girls - Análise Turnover.pbit → Visualização interativa dos resultados.
+
+🎯 Objetivos
+Identificar o perfil de funcionários com maior risco de saída.
+
+Avaliar quais fatores mais influenciam na rotatividade.
+
+Detectar departamentos e cargos críticos.
+
+Encontrar padrões no tempo de casa antes da saída.
+
+📌 Insights Principais
+
+📊 Taxa geral de turnover: 16.12%
+
+Departamento com maior turnover: Técnico de laboratório (~24%), seguido de Executivo de vendas (~17,5%).
+
+Perfil de maior risco: Homens, <30 anos, com horas extras frequentes e até 5 anos de empresa.
+
+Fatores mais correlacionados com a saída:
+
+Horas extras.
+
+Maior distância de casa (> 11 km).
+
+Baixa satisfação no trabalho (< 2,5 na média).
+
+Menor tempo de empresa (até 5 anos).
+
+🛠 Recomendações Estratégicas
+Controle de Horas Extras
+
+Definir limites claros e redistribuir carga de trabalho.
+
+Incentivos para Proximidade ou Trabalho Flexível
+
+Auxílio transporte extra, home office parcial ou realocação para unidades mais próximas.
+
+Programas de Satisfação e Engajamento
+
+Pesquisas internas para mapear causas da insatisfação.
+
+Reconhecimento de desempenho e oportunidades de desenvolvimento profissional.
+
+❓ Perguntas Norteadoras Respondidas
+Perfil com maior risco de rotatividade?
+Homens, <30 anos, com horas extras e até 5 anos de empresa.
+
+Fatores mais influentes na saída?
+Horas extras, distância de casa, satisfação no trabalho, tempo de empresa.
+
+Departamento/cargo mais crítico?
+Departamento de sales.
+
+Padrão no tempo de casa antes da saída?
+Maior concentração de saídas entre 3-5 anos e 6-10 anos de empresa.
+
+✏ Autor(a): Alessandra Sarah
+📅 Data: 2025
+📈 Ferramentas: Excel, Python (Pandas, Seaborn, Matplotlib), Power BI
+
